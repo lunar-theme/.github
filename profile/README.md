@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/lunar-theme/lunar-theme/raw/main/assets/icon-rounded.png" width="90" />
+  <img src="https://github.com/lunar-theme/lunar-theme/raw/main/assets/icon-rounded.png" />
 <h2 align="center">Lunar</h2>
 </p>
 
