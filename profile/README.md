@@ -8,7 +8,7 @@
   ·
   <a href="https://lunar-theme.github.io/pallete">Pallete</a>
   ·
-  <a href="https://github.com/lunar-theme/lunar-theme">More</a>
+  <a href="https://github.com/lunar-theme/lunar">More</a>
 </p>
 
 <p align="center">lunar is a minimal black and blue color scheme inspired by<strong> space</strong> and the concept inspired by <strong><a href="https://nordtheme.com" target="_blank">Nord</a> and <a href="https://github.com/rose-pine" target="_blank">Rose Pine</a></strong>.</p><br>
