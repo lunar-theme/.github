@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://lunar-theme.github.io/ports">Ports</a>
   ·
-  <a href="https://lunar-theme.github.io/pallete">Pallete</a>
+  <a href="https://lunar-theme.github.io/palette">Pallete</a>
   ·
   <a href="https://github.com/lunar-theme/lunar">More</a>
 </p>
