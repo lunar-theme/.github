@@ -1,5 +1,7 @@
 <p align="center">
+<a href="https://lunar-theme.github.io">
   <img src="https://github.com/lunar-theme/lunar-theme/raw/main/assets/icon-rounded.png" />
+</a>
 <h2 align="center">Lunar</h2>
 </p>
 
