@@ -12,7 +12,9 @@
   ·
   <a href="https://lunar-theme.github.io/palette">Pallete</a>
   ·
+  <a href="https://discord.gg/xvj3t9TwFT">Discord Server</a>
+  ·
   <a href="https://github.com/lunar-theme/lunar">More</a>
 </p>
 
-<p align="center">lunar is a minimal black and blue color scheme inspired by space and other color schemes like <a href="https://nordtheme.com" target="_blank">Nord</a>, <a href="https://github.com/rose-pine" target="_blank">Rose Pine</a> and <a href="https://github.com/catppuccin">Catppuccin</a></p><br>
+<p align="center">Lunar is a minimal black and blue color scheme inspired by space and other color schemes like <a href="https://nordtheme.com" target="_blank">Nord</a>, <a href="https://github.com/rose-pine" target="_blank">Rose Pine</a> and <a href="https://github.com/catppuccin">Catppuccin</a>.</p><br>
