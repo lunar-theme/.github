@@ -18,7 +18,7 @@
 <p align="center">Lunar is a minimal black and blue color scheme inspired by space and other color schemes like <a href="https://nordtheme.com" target="_blank">Nord</a>, <a href="https://github.com/rose-pine" target="_blank">Rose Pine</a> and <a href="https://github.com/catppuccin">Catppuccin</a>.</p><br>
 
 <details>
-  <summary><center>Palette</center></summary>
+  <summary>Palette</summary>
 
 **Deep Space**  
 
