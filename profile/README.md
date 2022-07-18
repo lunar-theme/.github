@@ -18,7 +18,7 @@
 <p align="center">Lunar is a minimal black and blue color scheme inspired by space and other color schemes like <a href="https://nordtheme.com" target="_blank">Nord</a>, <a href="https://github.com/rose-pine" target="_blank">Rose Pine</a> and <a href="https://github.com/catppuccin">Catppuccin</a>.</p><br>
 
 <details>
-  <summary>Palette</summary>
+  <summary id="summary">Palette</summary>
 
 **Deep Space**  
 
@@ -47,3 +47,9 @@
 | nimbus           | `#7e848e` |   `rgb(126, 132, 142)` | ![#7e848e](https://raw.githubusercontent.com/lunar-theme/.github/main/assets/dust/nimbus.png)|
 
 </details>
+
+<style>
+  .summary {
+    text-align: center;
+  }
+</style>
